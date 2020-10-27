@@ -1287,9 +1287,9 @@
        "isr": "דומיניקה"
      }
    },
-    {
+        {
      "currency": "DOP",
-     "callingCode": "1809",
+     "callingCode": "809",
      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAR1QTFRFzNbr////+NjV2Tgp1igX1ikY1ikY1igX2Tcn99bT0NntEj+jADCcADGcADGcADCcED6iET6iztjs////99fU2Tgo1igX1ikYAC6aAC2aETuhztfs2DUl1SUT1SYUSWy4SGy4VXa93OPx+/z95+vx6+/0/f//+uPh5HFm4mZa+fr9+/z+3uXyorXQrbzSxMDKysvV7vH3//v7/vr6ydnUfJqunqi53JiJy6yp3Ojqxt2xlaaaw6y0wKevrracz+fDwtyvvpdp1oyLmYejdqN9x+O53eLKwqh72qCHv6GWpqh26O3d8LOt8LKs8biz+NfU+dnU8+Pa9uTb+dLN7ODmq7zfpLXcpLbc1ioZ99bT0NntE0CjATKc2TcnEj+jqOAFTAAAAA50Uk5T9/Xz7e3t/Pz8/v79/Pw+trfuAAAAAWJLR0QB/wIt3gAAAAlwSFlzAAAASAAAAEgARslrPgAAALFJREFUOMvt0bUWwlAQRdGHewKEENzd3d3d3f7/MyBQzUtDwaLKLmedqS4iIFKLBC9CkVgCITzU6akXA21kID78d2iCzBbrO7TZHRByQi63x+vzB4KhMAZFMNFYPJFMpTNZDKJwuXyhWCpzztywUq3VG80vwla70+31vwgHw9F4MuWGM2i+WK7Wm+1ufzhC6AQx9Jn9v1yJG4SwAYz3T/ggscn48EehFJLJFWyoVKk10BOl7H44XRu8uAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo1NCswMjowMCWZIUIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NTQrMDI6MDBUxJn+AAAAAElFTkSuQmCC",
      "name": {
        "common": "Dominican Republic",
@@ -1309,6 +1309,50 @@
        "isr": "הרפובליקה הדומיניקנית"
      }
    },
+   {
+    "currency": "DOP",
+    "callingCode": "849",
+    "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAR1QTFRFzNbr////+NjV2Tgp1igX1ikY1ikY1igX2Tcn99bT0NntEj+jADCcADGcADGcADCcED6iET6iztjs////99fU2Tgo1igX1ikYAC6aAC2aETuhztfs2DUl1SUT1SYUSWy4SGy4VXa93OPx+/z95+vx6+/0/f//+uPh5HFm4mZa+fr9+/z+3uXyorXQrbzSxMDKysvV7vH3//v7/vr6ydnUfJqunqi53JiJy6yp3Ojqxt2xlaaaw6y0wKevrracz+fDwtyvvpdp1oyLmYejdqN9x+O53eLKwqh72qCHv6GWpqh26O3d8LOt8LKs8biz+NfU+dnU8+Pa9uTb+dLN7ODmq7zfpLXcpLbc1ioZ99bT0NntE0CjATKc2TcnEj+jqOAFTAAAAA50Uk5T9/Xz7e3t/Pz8/v79/Pw+trfuAAAAAWJLR0QB/wIt3gAAAAlwSFlzAAAASAAAAEgARslrPgAAALFJREFUOMvt0bUWwlAQRdGHewKEENzd3d3d3f7/MyBQzUtDwaLKLmedqS4iIFKLBC9CkVgCITzU6akXA21kID78d2iCzBbrO7TZHRByQi63x+vzB4KhMAZFMNFYPJFMpTNZDKJwuXyhWCpzztywUq3VG80vwla70+31vwgHw9F4MuWGM2i+WK7Wm+1ufzhC6AQx9Jn9v1yJG4SwAYz3T/ggscn48EehFJLJFWyoVKk10BOl7H44XRu8uAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo1NCswMjowMCWZIUIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NTQrMDI6MDBUxJn+AAAAAElFTkSuQmCC",
+    "name": {
+      "common": "Dominican Republic",
+      "cym": "Gweriniaeth_Dominica",
+      "deu": "Dominikanische Republik",
+      "fra": "République dominicaine",
+      "hrv": "Dominikanska Republika",
+      "ita": "Repubblica Dominicana",
+      "jpn": "ドミニカ共和国",
+      "nld": "Dominicaanse Republiek",
+      "por": "República Dominicana",
+      "rus": "Доминиканская Республика",
+      "spa": "República Dominicana",
+      "svk": "Dominikánska republika",
+      "fin": "Dominikaaninen tasavalta",
+      "zho": "多明尼加",
+      "isr": "הרפובליקה הדומיניקנית"
+    }
+  },
+  {
+    "currency": "DOP",
+    "callingCode": "829",
+    "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAR1QTFRFzNbr////+NjV2Tgp1igX1ikY1ikY1igX2Tcn99bT0NntEj+jADCcADGcADGcADCcED6iET6iztjs////99fU2Tgo1igX1ikYAC6aAC2aETuhztfs2DUl1SUT1SYUSWy4SGy4VXa93OPx+/z95+vx6+/0/f//+uPh5HFm4mZa+fr9+/z+3uXyorXQrbzSxMDKysvV7vH3//v7/vr6ydnUfJqunqi53JiJy6yp3Ojqxt2xlaaaw6y0wKevrracz+fDwtyvvpdp1oyLmYejdqN9x+O53eLKwqh72qCHv6GWpqh26O3d8LOt8LKs8biz+NfU+dnU8+Pa9uTb+dLN7ODmq7zfpLXcpLbc1ioZ99bT0NntE0CjATKc2TcnEj+jqOAFTAAAAA50Uk5T9/Xz7e3t/Pz8/v79/Pw+trfuAAAAAWJLR0QB/wIt3gAAAAlwSFlzAAAASAAAAEgARslrPgAAALFJREFUOMvt0bUWwlAQRdGHewKEENzd3d3d3f7/MyBQzUtDwaLKLmedqS4iIFKLBC9CkVgCITzU6akXA21kID78d2iCzBbrO7TZHRByQi63x+vzB4KhMAZFMNFYPJFMpTNZDKJwuXyhWCpzztywUq3VG80vwla70+31vwgHw9F4MuWGM2i+WK7Wm+1ufzhC6AQx9Jn9v1yJG4SwAYz3T/ggscn48EehFJLJFWyoVKk10BOl7H44XRu8uAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo1NCswMjowMCWZIUIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NTQrMDI6MDBUxJn+AAAAAElFTkSuQmCC",
+    "name": {
+      "common": "Dominican Republic",
+      "cym": "Gweriniaeth_Dominica",
+      "deu": "Dominikanische Republik",
+      "fra": "République dominicaine",
+      "hrv": "Dominikanska Republika",
+      "ita": "Repubblica Dominicana",
+      "jpn": "ドミニカ共和国",
+      "nld": "Dominicaanse Republiek",
+      "por": "República Dominicana",
+      "rus": "Доминиканская Республика",
+      "spa": "República Dominicana",
+      "svk": "Dominikánska republika",
+      "fin": "Dominikaaninen tasavalta",
+      "zho": "多明尼加",
+      "isr": "הרפובליקה הדומיניקנית"
+    }
+  },
  {
      "currency": "USD",
      "callingCode": "593",
