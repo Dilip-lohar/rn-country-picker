@@ -167,8 +167,8 @@ export default class CountryPicker extends Component {
           animationType={this.props.animationType}
           visible={this.state.modalVisible}
           onRequestClose={() => this.setState({modalVisible: false})}>
-          < SafeAreaView
- elevation={10} style={styles.searchBarContainer}>
+              < SafeAreaView
+ elevation={1} style={[styles.searchBarContainer,this.props.headerStyle]}>
             <TouchableOpacity
               disabled={this.props.disable}
               activeOpacity={0.5}
