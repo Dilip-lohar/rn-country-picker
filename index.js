@@ -11,6 +11,7 @@ import {
   StyleSheet,
   Text,
   TextInput,
+    SafeAreaView,
   TouchableOpacity,
   View,
 } from 'react-native';
@@ -61,7 +62,7 @@ export default class CountryPicker extends Component {
       selectedCountryName: item.name.common,
       arrayData: CountryJSON,
     });
-    this.props.selectedValue(item.callingCode);
+    this.props.selectedValue(item);
   }
 
   static _selectDefaultCountry(
@@ -166,7 +167,8 @@ export default class CountryPicker extends Component {
           animationType={this.props.animationType}
           visible={this.state.modalVisible}
           onRequestClose={() => this.setState({modalVisible: false})}>
-          <View elevation={10} style={styles.searchBarContainer}>
+          < SafeAreaView
+ elevation={10} style={styles.searchBarContainer}>
             <TouchableOpacity
               disabled={this.props.disable}
               activeOpacity={0.5}
@@ -181,14 +183,14 @@ export default class CountryPicker extends Component {
               />
             </TouchableOpacity>
 
-            {this.state.hidePickerTitle ? null : (
+            {/* {this.state.hidePickerTitle ? null : (
               <Text style={this.props.pickerTitleStyle}>
                 {this.props.pickerTitle}
               </Text>
-            )}
+            )} */}
 
-            {this.state.hideSearchBar ? null : (
-              <TextInput
+          
+              <TextInput 
                 style={this.props.searchBarStyle}
                 onChangeText={(text) => this._searchFilterFunction(text)}
                 placeholder={this.props.searchBarPlaceHolder}
@@ -196,7 +198,7 @@ export default class CountryPicker extends Component {
                 returnKeyType={'done'}
                 blurOnSubmit={true}
               />
-            )}
+           
 
             <TouchableOpacity
               disabled={this.props.disable}
@@ -214,7 +216,7 @@ export default class CountryPicker extends Component {
                 source={this.props.searchButtonImage}
               />
             </TouchableOpacity>
-          </View>
+          </SafeAreaView>
 
           <FlatList
             overScrollMode="never"
